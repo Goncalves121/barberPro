@@ -1,4 +1,4 @@
-# BarberShop 💈
+# BarberPro 💈
 
 Sistema de gestão para barbearias desenvolvido como projeto acadêmico, com foco em agendamento, cadastro de clientes e controle administrativo.
 
